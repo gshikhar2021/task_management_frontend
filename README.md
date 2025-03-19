@@ -52,7 +52,7 @@ A real-time task management application built using **React, Golang (Gin), Mongo
 ### 1. Clone the repository
 ```sh
 git clone https://github.com/gshikhar2021/task_management_frontend.git
-cd task-manager
+cd task_management_frontend
 ```
 
 ### 2. Backend Setup
